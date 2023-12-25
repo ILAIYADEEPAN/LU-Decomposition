@@ -53,8 +53,9 @@ print(x)
 ```
 
 ## Output:
-![Alt text](<LU output1.png>)
-![Alt text](<LU output2.png>)
+![LU output1](https://github.com/ILAIYADEEPAN/LU-Decomposition/assets/147473334/c499830e-dc49-4a1c-a702-79b5aaef79b5)
+![LU output2](https://github.com/ILAIYADEEPAN/LU-Decomposition/assets/147473334/013e51df-dab2-4542-9bdf-f3311cc94810)
+
 
 
 ## Result:
